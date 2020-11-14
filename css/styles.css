@@ -48,7 +48,7 @@ img {
   position: relative;
   height: 700px;
   width: 90%;
-  margin: 90px auto 0px 85px;
+  margin: 91px auto 0 83px;
 }
 
 .verified_graduate {
@@ -64,6 +64,10 @@ img {
 
 .img_type {
   width: 14%;
+}
+
+.kira-p {
+  font-size: 0.71875rem;
 }
 
 .Daniel {
@@ -135,5 +139,5 @@ img {
   height: 582px;
   display: inline-block;
   position: absolute;
-  right: 38px;
+  left: 904px;
 }
